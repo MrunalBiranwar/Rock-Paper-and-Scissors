@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    text-align: center;
+}
+h1{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+.select-section{
+    padding: 5vmin;
+}
+.select-btn{
+    padding: 6vmin;
+    border-radius: 50%;
+    margin: 5px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 3vmin;
+}
+.counter-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5vmin;
+    padding: 10vmin;
+    font-size: 5vmin;
+}
+.result-display-screen{
+    background-color: black;
+    color: white;
+    border-radius: 4rem;
+    padding: 10px;
+    font-size: 3vmin;
+    width: 30%;
+    margin: auto;
+
+}
